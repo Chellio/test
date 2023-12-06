@@ -1,0 +1,636 @@
+﻿Application Name
+3rd party API
+3rd party application
+3rd party Load balancer/API
+3rd party system
+3rd party tool
+A10 Thunder Series Unified Application Service Gateway
+Active Directory
+Active Directory 2019
+Active Directory Federation Services
+Active Directory/LDAP
+AD Manager
+Agentless REST
+Agentless REST Executor
+AKS
+AKS and App Gateway
+AlertOps
+Alsta
+Amazon Elastic Container Registry
+Amazon Elastic Kubernetes Service
+Amazon Relational Database Service
+Amazon Web Services
+Amazon Web Services S3
+Ameyo
+Ameyo IVR
+Ansible
+Ansible Tower
+AOR
+Apache HTTP Server
+Apache HttpClient
+Apache JK
+Apache Log4j
+Apache Tomcat
+Apereo CAS
+API
+API Gateway
+APIFacade
+AppDynamics
+Appviewx
+ArcSight ESM or ArcSight Logger
+AWS Application Load Balancer
+AWS Certificate Manager
+AWS CloudFormation
+AWS Connect
+AWS Load Balancer
+AWS Load Balancer Controller
+AWS Loadbalancers
+Axces APM BAC
+Azure
+Azure Active Directory
+Azure Application Gateway
+Azure Application Proxy
+Azure DevOps
+Azure DevOps Integration
+Azure SSO
+Backoffice
+Baidu
+Basic Authentication
+BMC
+bo-integration@dummy.com
+Broadcom Layer7 API Gateway
+Bundles and Offerings
+Business Objects
+Case Exchange
+Catalog Offering
+CellC_autoClose scriptlibrary
+Certificate Authority
+Change
+Chatbot
+Checkbox
+CheckMK
+Cherwell Service Management
+Cisco Jabber
+CIT
+CKEditor
+Client Tool
+Cloud Mobility Manager
+Cloudflare
+CMS
+CMS Gateway
+CMS UI
+Confluence
+Connect IT
+Connect IT with Email Fetching Connector
+ConnectIT
+Connect-IT
+ConnectIT (LDAP)
+Container Development Framework
+Containerd
+Containerized CMS
+Containerized Management Suite
+Content Security Policy
+CRM
+CRMUSER API
+Crowdstrike AV
+Crystal report
+CSA
+CTI
+cURL
+Custom application
+Custom CA
+Custom User Self Service Web Portal
+CyberArk
+D3 SOAR
+DATEV
+Dev2Prod package manager
+DFP Windows Standalone
+Digipass
+DNS
+Docker
+Docker Hub
+Docker Registry
+Dockerhub
+DocumentEngine
+Dynatrace
+EAI
+Eclipse
+Edge
+Email
+Email Inbound Integration
+Email Integration
+Email Integration Endpoint
+Email Server
+EMS API
+EncryptUtil
+Endpoint Credentials Manager
+ESB
+ESM
+EWS Exchange online Advanced authentication
+Exchange
+Exchange Online
+Exchange Web Services
+Exchange Web Services (EWS)
+Expert Search
+External API
+External Application
+External CI
+External Database
+External Load Balancer
+External Service Desk
+External System
+External Vendor
+F5 BIG-IP
+F5 BIG-IP Load Balancer
+F5 Hardware Load Balancer
+F5 HWLB
+F5 load balancer
+Falcon
+File Exchange
+File Transfer Service
+Flannel
+FQDN change
+FTP
+GatewayAPI_svcCatRequest
+Gcore
+Genesys Cloud
+Gmail
+Google Chrome Translate add-on
+Google Cloud Platform
+Google OAuth
+Google Translate
+Grafana
+Group access
+HA Postgres
+Hadoop Admin Portal
+Harbour
+HCMX
+HDK
+hMailServer
+Hotjar
+HP Configuration Management System
+HP IDOL
+HP IDOL Server
+HP Operations Manager i
+HP Operations Manager i (OMI)
+HP Service Manager
+HP Temip
+HP TEMIP/UBM
+HPE TEMIP / UTTL
+HPOO
+HPSM
+HPSM web services
+Htmlemailtemplates Javascript
+HTTPS
+Humonics
+IAG (Identity and Access Governance)
+IBM Integration Bus
+IBM Notes
+IBM Security Access Manager
+IBM Single Sign-On
+IBM SOAR
+IBM SSO
+IBM Websphere Liberty
+Identity Management application
+Identity Manager
+Identity Provider
+IDM
+IDM database
+IDM Service
+IDOL KM
+IDOLACI
+IDP
+IIS
+"IIS, BonCode, Tomcat"
+IMAP
+Incident Management REST WSDL
+Incident Manager
+Infobip SMS
+Insight
+Integration Engine Interface
+Integration Engine UI
+Interaction Manager
+Internal IP
+intranet.api.bb.com.br
+iPhone Mail App
+IR
+ITC tool
+ITOM
+ITSM APIs
+IVR
+Jakarta ISAPI Plugin
+Java
+Java 11
+Java applets
+Java Development Kit 11
+JavaScript
+JDK 11
+JIRA
+JSON
+JWT Authentication
+JWT Token
+Kaspersky antivirus
+Kerberos
+Keycloak
+Kube Registry
+Kubernetes
+Kubernetes API Server
+Kubernetes registry
+LDAP
+LDAP and SAML
+"LDAP, Windows Client"
+LDAP/SAML?OAUTH
+Linker scheduler
+LiveChat
+Load Balancer or Proxy Server
+LWSSO
+LW-SSO
+Mail eater
+Mail Server
+Major Incident Team
+Manage Person API
+Manage Persons API
+Management as a Service
+ManagePersons API
+Mass update/close
+Matrix 42
+McAfee ENS
+Micro Focus IDOL Server
+Micro Focus Marketplace
+Micro Focus Operations Bridge Analytics - Service Analytics
+Micro Focus Operations Bridge Connector
+Micro Focus Operations Bridge SIEM
+Micro Focus Operations Orchestration
+Microsoft 365
+Microsoft Active Directory
+Microsoft Active Directory 2.0
+Microsoft Application Request Routing
+Microsoft Azure
+Microsoft Azure Single Sign-On
+Microsoft Exchange
+Microsoft Exchange 2019 mail server
+Microsoft Exchange Online
+Microsoft Exchange Server
+Microsoft Exchange Web Services
+Microsoft Exchange Webservice
+Microsoft Graph
+Microsoft Graph API
+Microsoft Intune
+Microsoft Multi-Factor Authentication
+Microsoft Office 365
+Microsoft Office 365 Outlook
+Microsoft Outlook
+Microsoft Outlook 365
+Microsoft Purview Message Encryption
+Microsoft Sharepoint
+Microsoft Smartscreen
+Microsoft SQL Server
+Microsoft SQL Server 2022
+Microsoft Teams
+Middleware NGIL
+Mobile App
+Mobile application
+Mobileum
+Monosign
+Monosync
+MS Teams or Estos ProCall
+MuleSoft Anypoint Platform
+MuleSoft API
+Multiple simultaneous threads
+MyAccount
+Nagios
+Native SACM
+Native Service Asset and Configuration Management
+Native Service Automation Configuration Management
+Netcool webservices tool
+NetIQ Identity Manager
+Netscaler Reverse Proxy Server
+Netview
+Network Access Manager
+Network File System
+Network Node Manager
+Network Node Manager i (NNMi)
+Nexthink Application
+NFS
+Nginx
+Nginx Ingress Controller
+NNMi
+"NNMi, SMAX, OBM, Network Automation, UCMDB"
+Node Label
+OAuth
+OAuth 2.0
+OAuth2
+OBM
+OBP Agent
+OData
+Offering's task plan
+Office 365
+Okta
+OMI
+OMI Service Manager
+OML
+OMNI instance
+OMT
+On Premise Bridge Agent
+On-Premise Bridge
+On-Premise Bridge Agent
+On-Premise Bridge for Windows
+OnPremiseBridge
+OO Central
+OO Flow
+OO Integration
+OPB
+OPB (On-Premise Bridge)
+OPB Agent
+OPB Email Integration
+OPBAGENT
+Open Business Management
+Open Orchestrator
+Open Platform for BMC
+Openbravo Mobile
+Openfire
+OpenLDAP
+OpenLDAP proxy
+OpenShift
+OpenSSL
+OpenStack
+OpenText
+OpenText Cloud
+OpenText Content Server
+OpenText Operational Intelligence
+OpenText Orchestration Engine
+OpenText OT2
+OpenText OTRS
+OpenText RPA
+OpenText Smart Analytics
+OpenText™ Asset Management X (AMX)
+Operation Orchestration
+Operations Bridge Manager
+Operations Orchestration
+Operations Orchestration (OO)
+Operations Orchestration (OO) Containerized
+Operator Orchestration
+OpsMgr Integration
+OpsRamp
+OPTIC Management Toolkit
+optIMTaskCEUtility
+Optus
+Oracle
+Oracle Access Manager
+Oracle database
+Oracle LMS
+Oracle Text
+Oracle Transparent Application Failover
+Orchestrator
+OTRS
+Outlook
+Outlook 365
+Outlook Calendar
+PC inventory database
+PDF
+Portal
+PostgreSQL
+Postman
+Power Automate Cloud Flow
+Power BI
+PowerShell
+PPM
+PPT environment
+Problem Management
+Process Director
+Prometheus
+Propel
+"Propel, CMS"
+Protegrity
+Proxy
+Proxy Server
+Qlik Sense BI tool
+RabbitMQ
+RAD application
+RAD Debugger
+RAD SQL procedure
+Red Hat Enterprise Linux
+Remedy
+Remedyforce
+Remote management
+Report module
+Reporting database
+Reporting Help
+Request Fulfillment Tool
+Request workflow
+RequestManagement
+REST
+REST API
+REST endpoint
+Rest Executor 2.0
+REST service
+Reverse Proxy
+RPA
+SaaSSubmitCart
+SailPoint IdentityNow
+"SailPoint, Saviynt"
+Salesforce
+SAML
+SAML IdP
+SAML IDP Application
+SAML SSO
+SAP
+SAP Cloud Platform Integration and Apigee Integration
+SAP Identity Management
+SAP Solution Manager
+Sberbank's webtier
+SCAuto SDK
+SCM Advanced RAD Application
+Screen readers
+ScriptLibrary
+Security Assertion Markup Language
+Security Validation
+Self Service Portal
+Self-signed certificate
+Service Asset & Configuration Management
+Service Aware Configuration Manager
+Service Catalog
+Service Catalog Asset Management
+Service Desk
+Service Desk Ticket
+Service Level Target
+Service Level Targets (SLTs)
+Service Management
+Service Management Automation
+Service Management Automation - Service Manager
+Service Management Automation - Service Portal
+Service Management Automation (SMA)
+"Service Management Automation (SMA), Operations Bridge Premium (OPB)"
+Service Management Automation (SMA/SMAX)
+Service Management Automation (SMAX)
+Service Management Automation X
+Service Manager
+Service Manager - Enterprise Service Bus
+Service Manager - Service Management Automation X
+Service Manager (SM)
+Service Manager 9 Request Model
+Service Manager 9.64
+Service Manager Automation
+Service Manager Automation - Service Portal
+Service Manager Classic
+Service Manager Event Integration
+Service Manager Portal
+Service Manager REST API
+Service Manager Self Service
+Service Manager Web Tier
+"Service Manager, UCMDB"
+Service Portal
+ServiceMax
+ServiceNow
+ServiceNow or Freshworks
+Servlet
+SFTP
+SharePoint
+SharePoint Online
+SIEM
+Single Sign-On
+SiteScope
+SLA
+SLO
+SM DRUG
+SM Uninet
+sm.ini
+SM9.6 upgrade tool
+SMA Service Portal
+SMART - EMAIL
+Smart Analytics
+Smart Analytics Content
+Smart Analytics Content2 service
+Smart Email
+Smart Email Inbound integration
+Smart Email Integration
+Smart Search
+Smart Search module of Smart Analytics
+Smart Ticket
+Smarta database
+SmartEmail
+SmartEmail Integration
+Smartmail
+SMA-SM portal
+SMA-SM Service Portal
+SMAX
+SMA-X
+SMAX Agentless REST API Endpoint
+SMAX and OBM
+SMAX API
+SMAX case exchange integration
+SMAX EMS API
+SMAX Global Search
+SMAX Idea Exchange
+SMAX IdM
+SMAX Integration
+SMAX Mobile App
+SMAX On-premise bridge
+SMAX Opb
+SMAX OPB Email Integration
+SMAX Receiver
+SMAX REST API
+SMAX SaaS
+SMAX to SMAX
+SMAX TO SMAX INTEGRATION
+SMAX with UCMDB
+"SMAX, Active Directory"
+smgateway and xservices gateway pods
+SMOmi
+SMS
+SMS API
+SMS API Gateway
+SMS Gateway (TWILIO)
+SMS Integration Management
+SMTP
+SMTP relay
+SOAP UI Project
+SoapUI
+SOC Stream
+Software Asset Management
+Software Load Balancer
+Software Management Automation Software Management Appliance
+Solarwinds Orion
+Solarwinds Orion and SMA-SM
+Solman
+Solver
+Splunk
+SQL server
+SQL server native client
+SSO
+SSO Authentication
+Starbucks
+STC IDP
+Studio
+Suite Administration
+Suite IDM pod
+Survey
+Survey module
+SysAdmin
+SYSTEMNAME
+SystemSettings
+Task module's workflow
+TCP
+Temip
+TeMIP Fault Management tool
+"Tenant, Internal Integration"
+Third Party Application
+Third Party ESB
+Third party interface
+Third Party Tool
+Third-party API
+Third-party application
+TIBCO
+Ticketing System
+Time Tracker
+Tomcat
+Tomcat 9.0
+Tooltip
+Trend Micro
+Trend Micro Email Integration
+Trendmicro & Foglight
+Twilio SMS API
+UCMDB
+UCMDB Browser
+uCMDB Push
+Unity
+Unity Performance Testing Infra
+Universal Configuration Management Database
+UOC
+URL
+us.screlate
+User Selection
+UserOptions
+UTT
+UTTL
+UTTL --- vTeMIP
+Vault
+Velero
+Virtual Agent
+Vlri
+VMware Airwatch MDM
+VMware Spring Beans
+VMware vRealize Automation
+VTEMIP
+WAF
+Web 9.72
+Web client
+Web Service
+Web Services
+webMethods
+Webservices
+WhatsApp
+Windows client
+WSDL
+X Integration Engine service
+XIE
+XIE SMAX Connector
+"XIE, HTTP, OO flow"
+XIE-SYSTEM
+XML
+XMPP
+xRuntime
+xRuntime Gateway Service
+xSOAR
+Zenworks Application
+Zimbra
